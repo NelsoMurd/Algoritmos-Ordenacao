@@ -1,6 +1,3 @@
-Excelente! Com essa informação, podemos refinar o README. Aqui está uma versão atualizada:
-
-Markdown
 
 # Heapsort em C
 
@@ -22,11 +19,3 @@ Esta implementação demonstra o Heapsort aplicado diretamente a um array com va
 ### `heapsort_dinamico.c`: Heapsort para Vetores de Tamanhos Variáveis
 
 Esta implementação oferece uma função de Heapsort que pode receber um vetor de qualquer tamanho e ordená-lo. Isso torna o algoritmo mais reutilizável em diferentes cenários.
-
-## Como Compilar e Executar
-
-Para compilar os arquivos, você pode usar o GCC:
-
-```bash
-gcc heapsort_fixo.c -o heapsort_fixo
-gcc heapsort_dinamico.c -o heapsort_dinamico
